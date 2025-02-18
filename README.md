@@ -9,6 +9,7 @@
 
 # Japão
 
+
 ## Sobre :
 
 1. ##### Localização e Geografia
@@ -37,6 +38,7 @@ O Japão é um destino turístico popular, oferecendo uma combinação de modern
 A observação das flores de cerejeira (Hanami) e o Festival de Fogo de Nara são exemplos de eventos culturais que atraem turistas durante todo o ano.
 
 
+
 ## Curiosidades : 
 
 1. ##### Cultura do Café e do Chá
@@ -49,6 +51,7 @@ O Japão é um dos líderes mundiais na criação de robôs. Um exemplo famoso �
 O Japão é rico em superstições e crenças populares. Uma delas é a "superstição do ventilador" – muitos japoneses acreditam que dormir com o ventilador ligado pode causar a morte devido à falta de oxigênio, um temor chamado "fuan". Outra superstição popular é a lenda da "Kuchisake-Onna", uma mulher fantasmagórica com a boca cortada que assombra as ruas e pergunta: "Você acha que eu sou bonita?" Esses mitos, entre outros, fazem parte da cultura misteriosa e fascinante do Japão.
 
 
+
 ## Atrações turisticas :
 
 1. ##### Templos e Santuários de Quioto
@@ -59,6 +62,8 @@ O Monte Fuji é o pico mais alto do Japão e uma das imagens mais icônicas do p
 
 3. ##### Tóquio - A Capital Vibrante
 Tóquio é uma das cidades mais modernas e dinâmicas do mundo. Entre as atrações mais conhecidas estão a Torre de Tóquio, o Templo Senso-ji (um dos mais antigos do Japão) e o distrito de Shibuya, famoso por seu cruzamento movimentado. Tóquio oferece uma mistura de cultura tradicional e inovação, com lojas de tecnologia futuristas, restaurantes de alto nível e bairros como Akihabara, para os fãs de eletrônicos e cultura otaku.
+
+
 
  ## Capital :
 
