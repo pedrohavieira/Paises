@@ -61,3 +61,12 @@ O Monte Fuji é o pico mais alto do Japão e uma das imagens mais icônicas do p
 Tóquio é uma das cidades mais modernas e dinâmicas do mundo. Entre as atrações mais conhecidas estão a Torre de Tóquio, o Templo Senso-ji (um dos mais antigos do Japão) e o distrito de Shibuya, famoso por seu cruzamento movimentado. Tóquio oferece uma mistura de cultura tradicional e inovação, com lojas de tecnologia futuristas, restaurantes de alto nível e bairros como Akihabara, para os fãs de eletrônicos e cultura otaku.
 
  ## Capital :
+
+ 1. ##### Uma Cidade de Contrastres: Tradição e Modernidade
+Tóquio é uma metrópole onde a modernidade e a tradição convivem lado a lado. No mesmo bairro, você pode visitar templos históricos, como o Templo Senso-ji em Asakusa, e depois se perder nas ruas futurísticas de Shibuya e Shinjuku, com seus arranha-céus iluminados por neon e lojas de tecnologia. A cidade é uma das mais avançadas tecnologicamente, mas ainda preserva uma rica herança cultural em seus bairros e cerimônias tradicionais.
+
+2. ##### Atrações Icônicas
+Tóquio é conhecida por suas atrações mundialmente famosas. A Torre de Tóquio, um símbolo da cidade, oferece vistas panorâmicas incríveis. O Palácio Imperial, residência oficial da família imperial, está rodeado por belos jardins. Além disso, o bairro de Akihabara é um paraíso para os fãs de tecnologia, eletrônicos e cultura otaku (anime, mangá e videogames), enquanto Odaiba, uma ilha artificial, abriga centros comerciais e o icônico Gundam da Vida Real.
+
+3. ##### Cultura, Compras e Gastronomia
+Tóquio é um dos melhores lugares para quem ama fazer compras. Distritos como Harajuku são famosos pelas lojas de moda e pelas subculturas estilosas, enquanto Ginza é uma área luxuosa com lojas de grife. A gastronomia também é uma grande atração, com uma vasta variedade de restaurantes, desde sushi de classe mundial até ramen e yakitori. A cidade possui mais de 200 restaurantes com estrelas Michelin, o maior número de qualquer cidade no mundo.
