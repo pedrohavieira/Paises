@@ -7,9 +7,9 @@
 * Joao Felipe
 * Vinicius Ribeiro
 
-## Japão
+# Japão
 
-### Sobre :
+## Sobre :
 
 1. ##### Localização e Geografia
 O Japão é um arquipélago localizado no leste da Ásia, composto por 14.000 ilhas, das quais as quatro principais são Honshu, Hokkaido, Kyushu e Shikoku.
@@ -37,7 +37,7 @@ O Japão é um destino turístico popular, oferecendo uma combinação de modern
 A observação das flores de cerejeira (Hanami) e o Festival de Fogo de Nara são exemplos de eventos culturais que atraem turistas durante todo o ano.
 
 
-### Curiosidades : 
+## Curiosidades : 
 
 1. ##### Cultura do Café e do Chá
 O Japão é famoso pela sua tradição no chá, especialmente o chá verde (matcha), que é usado em cerimônias formais e em diversas receitas. O chá é considerado uma arte e é preparado com grande precisão. Por outro lado, o café também tem um lugar especial na cultura japonesa, especialmente em cafés temáticos. Existem cafés de gatos, cafés de corujas, e até cafés com robôs que servem os clientes, criando uma experiência única e divertida.
