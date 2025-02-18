@@ -37,7 +37,18 @@ O Japão é um destino turístico popular, oferecendo uma combinação de modern
 A observação das flores de cerejeira (Hanami) e o Festival de Fogo de Nara são exemplos de eventos culturais que atraem turistas durante todo o ano.
 
 
-## Curiosidades : 
+### Curiosidades : 
+
+1. ##### Cultura do Café e do Chá
+O Japão é famoso pela sua tradição no chá, especialmente o chá verde (matcha), que é usado em cerimônias formais e em diversas receitas. O chá é considerado uma arte e é preparado com grande precisão. Por outro lado, o café também tem um lugar especial na cultura japonesa, especialmente em cafés temáticos. Existem cafés de gatos, cafés de corujas, e até cafés com robôs que servem os clientes, criando uma experiência única e divertida.
+
+2. ##### Tecnologia Avançada em Robôs
+O Japão é um dos líderes mundiais na criação de robôs. Um exemplo famoso é o ASIMO, um robô humanoide da Honda, projetado para interagir com as pessoas e realizar tarefas como caminhar, correr e até dançar. Além disso, o Japão tem restaurantes e lojas automatizadas com robôs atendendo aos clientes, desde garçom robótico até robôs que ajudam em processos industriais e de cuidados com idosos. Esse uso de tecnologia avançada é uma das marcas registradas do país.
+
+3. ##### Tradições e Superstições
+O Japão é rico em superstições e crenças populares. Uma delas é a "superstição do ventilador" – muitos japoneses acreditam que dormir com o ventilador ligado pode causar a morte devido à falta de oxigênio, um temor chamado "fuan". Outra superstição popular é a lenda da "Kuchisake-Onna", uma mulher fantasmagórica com a boca cortada que assombra as ruas e pergunta: "Você acha que eu sou bonita?" Esses mitos, entre outros, fazem parte da cultura misteriosa e fascinante do Japão.
+
+
 ## Atrações turisticas :
 ## 
 ## Capital :
