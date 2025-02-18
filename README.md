@@ -50,5 +50,14 @@ O Japão é rico em superstições e crenças populares. Uma delas é a "superst
 
 
 ## Atrações turisticas :
-## 
-## Capital :
+
+1. ##### Templos e Santuários de Quioto
+Quioto é uma das cidades mais tradicionais do Japão, repleta de templos e santuários históricos. O Templo Kinkaku-ji (Pavilhão Dourado) e o Santuário Fushimi Inari-taisha, com seus famosos portões vermelhos (torii), são alguns dos principais pontos turísticos. Quioto também é famosa por seus jardins zen, casas de chá e geishas, oferecendo uma imersão na cultura tradicional japonesa.
+
+2. ##### Monte Fuji
+O Monte Fuji é o pico mais alto do Japão e uma das imagens mais icônicas do país. Localizado a cerca de 100 km de Tóquio, ele é um destino popular para quem gosta de caminhadas e atividades ao ar livre. Muitos turistas escalam a montanha durante o verão, enquanto outros preferem apreciá-la de pontos turísticos ao redor, como o Lago Kawaguchi, que oferece vistas espetaculares do monte refletido nas águas.
+
+3. ##### Tóquio - A Capital Vibrante
+Tóquio é uma das cidades mais modernas e dinâmicas do mundo. Entre as atrações mais conhecidas estão a Torre de Tóquio, o Templo Senso-ji (um dos mais antigos do Japão) e o distrito de Shibuya, famoso por seu cruzamento movimentado. Tóquio oferece uma mistura de cultura tradicional e inovação, com lojas de tecnologia futuristas, restaurantes de alto nível e bairros como Akihabara, para os fãs de eletrônicos e cultura otaku.
+
+ ## Capital :
